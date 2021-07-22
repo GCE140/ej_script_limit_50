@@ -1,0 +1,300 @@
+Artículo 1:
+ID del ítem:			MLA917485457
+Título del ítem:		Monitor Dell E Series E2220h Led 21.5   Negro 100v/240v
+ID de la catgoría del ítem:	MLA14407
+Nombre de la categoría:		MLA-COMPUTER_MONITORS
+
+Artículo 2:
+ID del ítem:			MLA918321811
+Título del ítem:		Monitor Dell E E2720h Led 27   Negro 100v/240v
+ID de la catgoría del ítem:	MLA14407
+Nombre de la categoría:		MLA-COMPUTER_MONITORS
+
+Artículo 3:
+ID del ítem:			MLA884736096
+Título del ítem:		Router Cisco Rv Series Rv340 Negro 100v/240v
+ID de la catgoría del ítem:	MLA430901
+Nombre de la categoría:		MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+
+Artículo 4:
+ID del ítem:			MLA923372796
+Título del ítem:		Monitor Dell E E2420h Led 24   Negro 100v/240v
+ID de la catgoría del ítem:	MLA14407
+Nombre de la categoría:		MLA-COMPUTER_MONITORS
+
+Artículo 5:
+ID del ítem:			MLA919422304
+Título del ítem:		Access Point, Router Linksys Mr8300 Negro 100v/240v
+ID de la catgoría del ítem:	MLA430901
+Nombre de la categoría:		MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+
+Artículo 6:
+ID del ítem:			MLA898898561
+Título del ítem:		Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240v
+ID de la catgoría del ítem:	MLA430901
+Nombre de la categoría:		MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+
+Artículo 7:
+ID del ítem:			MLA927409466
+Título del ítem:		Switch Cisco Sf110-24 Serie 110
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 8:
+ID del ítem:			MLA925179224
+Título del ítem:		 Apc Easy Ups Bv1000i-ar 1000va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 9:
+ID del ítem:			MLA930256736
+Título del ítem:		 Apc Back-ups Pro 1200 Br1200g-ar 1200va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 10:
+ID del ítem:			MLA927887762
+Título del ítem:		Monitor Gamer Dell Professional P2719h Led 27   Negro 100v/240v
+ID de la catgoría del ítem:	MLA14407
+Nombre de la categoría:		MLA-COMPUTER_MONITORS
+
+Artículo 11:
+ID del ítem:			MLA913997022
+Título del ítem:		Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  8gb De Ram 1tb Hdd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 Pro
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 12:
+ID del ítem:			MLA926001777
+Título del ítem:		Switch Linksys Se3005
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 13:
+ID del ítem:			MLA928606511
+Título del ítem:		 Apc Back-ups Br900g-ar 900va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 14:
+ID del ítem:			MLA863267784
+Título del ítem:		Monitor Gamer Dell Professional P2018h Led 20   Negro 100v/240v
+ID de la catgoría del ítem:	MLA14407
+Nombre de la categoría:		MLA-COMPUTER_MONITORS
+
+Artículo 15:
+ID del ítem:			MLA884735834
+Título del ítem:		Repetidor Linksys Re6500 Negro
+ID de la catgoría del ítem:	MLA430901
+Nombre de la categoría:		MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+
+Artículo 16:
+ID del ítem:			MLA926280125
+Título del ítem:		 Apc Easy Ups Bv500i-ar 500va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 17:
+ID del ítem:			MLA927759938
+Título del ítem:		Notebook Dell Latitude 3510 Gris 15.6 , Intel Core I5 10210u  8gb De Ram 1tb Hdd, Intel Hd Graphics 620 1366x768px Windows 10 Pro
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 18:
+ID del ítem:			MLA927177803
+Título del ítem:		 Apc Back-ups Bx550ci-ar 550va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 19:
+ID del ítem:			MLA918820148
+Título del ítem:		Router Linksys Lrt214 Negro Y Azul
+ID de la catgoría del ítem:	MLA430901
+Nombre de la categoría:		MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+
+Artículo 20:
+ID del ítem:			MLA917202917
+Título del ítem:		Switch Cisco Sg110d-08 Serie 110
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 21:
+ID del ítem:			MLA924366761
+Título del ítem:		 Apc Back-ups Pro 1500 Br1500g-ar 1500va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 22:
+ID del ítem:			MLA928466352
+Título del ítem:		Notebook Dell Latitude 3510 Gris 15.6 , Intel Core I5 10210u  4gb De Ram 1tb Hdd, Intel Uhd Graphics 620 1920x1080px Windows 10 Pro
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 23:
+ID del ítem:			MLA917515758
+Título del ítem:		 Apc Easy Ups Srv6ki 6000va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 24:
+ID del ítem:			MLA929600216
+Título del ítem:		Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  4gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 25:
+ID del ítem:			MLA923612111
+Título del ítem:		Switch Cisco Sg110-24 Small Business Serie 110
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 26:
+ID del ítem:			MLA917516307
+Título del ítem:		 Apc Smart-ups Srt Srt5kxli 5000va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 27:
+ID del ítem:			MLA914634860
+Título del ítem:		Access Point Interior Cisco 100 Series Wap150 Blanco
+ID de la catgoría del ítem:	MLA430901
+Nombre de la categoría:		MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+
+Artículo 28:
+ID del ítem:			MLA927415191
+Título del ítem:		Switch Cisco Sf350-24p Serie 350
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 29:
+ID del ítem:			MLA927413664
+Título del ítem:		Switch Cisco Sf220-24 Small Business Serie 220
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 30:
+ID del ítem:			MLA927413671
+Título del ítem:		Switch Cisco Sg110-24hp Serie 110
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 31:
+ID del ítem:			MLA927414264
+Título del ítem:		Switch Cisco Sg350-28 Serie 350
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 32:
+ID del ítem:			MLA927414271
+Título del ítem:		Switch Cisco Sf220-24p Serie 220
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 33:
+ID del ítem:			MLA928736315
+Título del ítem:		 Apc Back-ups Br550g-ar 550va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 34:
+ID del ítem:			MLA927412264
+Título del ítem:		Switch Cisco Sg350-52 Sg Serie 350
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 35:
+ID del ítem:			MLA926291038
+Título del ítem:		 Apc Easy Ups Srv3000 Srv3ki-ar 3000va Entrada Y Salida De 220v/240v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 36:
+ID del ítem:			MLA925128032
+Título del ítem:		Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  12gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 37:
+ID del ítem:			MLA925134999
+Título del ítem:		Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  32gb De Ram 1tb Hdd 240gb Ssd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 Pro
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 38:
+ID del ítem:			MLA925120684
+Título del ítem:		Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  8gb De Ram 1tb Hdd 240gb Ssd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 Pro
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 39:
+ID del ítem:			MLA917518416
+Título del ítem:		Switch Cisco Sg220-26p Small Business Serie 220
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 40:
+ID del ítem:			MLA927178600
+Título del ítem:		 Apc Back-ups Bx800ci-ar 800va Entrada Y Salida De 230v Negro
+ID de la catgoría del ítem:	MLA1720
+Nombre de la categoría:		MLA-STABILIZERS_AND_UPS
+
+Artículo 41:
+ID del ítem:			MLA925134641
+Título del ítem:		Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  16gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 42:
+ID del ítem:			MLA917517444
+Título del ítem:		Switch Cisco Sg250-50p Serie 250
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 43:
+ID del ítem:			MLA930094684
+Título del ítem:		Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240v 2 Unidades
+ID de la catgoría del ítem:	MLA430901
+Nombre de la categoría:		MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+
+Artículo 44:
+ID del ítem:			MLA927411889
+Título del ítem:		Switch Cisco Sg112-24 Serie 110
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 45:
+ID del ítem:			MLA929442707
+Título del ítem:		Switch Cisco Sg110-16 Small Business Serie 110
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 46:
+ID del ítem:			MLA685442693
+Título del ítem:		Switch Cisco 24 Puertos Gigabit Rack 10/100/1000
+ID de la catgoría del ítem:	MLA1708
+Nombre de la categoría:		MLA-NETWORK_SWITCHES
+
+Artículo 47:
+ID del ítem:			MLA919297554
+Título del ítem:		Notebook Dell Vostro 3401 I3 16gb 1tb + 240ssd Win 10 Home
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 48:
+ID del ítem:			MLA683834424
+Título del ítem:		Router Cisco Rv160w Wireless Ac Vpn Dualband Usb Oferta
+ID de la catgoría del ítem:	MLA430901
+Nombre de la categoría:		MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+
+Artículo 49:
+ID del ítem:			MLA920521342
+Título del ítem:		Notebook Dell Latitude 3510 15.6 I5 16gb 1tb + 480ssd Ubu Ht
+ID de la catgoría del ítem:	MLA1652
+Nombre de la categoría:		MLA-NOTEBOOKS
+
+Artículo 50:
+ID del ítem:			MLA838441150
+Título del ítem:		Servidor Poweredge Dell T40 Xeon E3-2224 16gb 1tb Hd Gtia
+ID de la catgoría del ítem:	MLA1649
+Nombre de la categoría:		MLA-DESKTOP_COMPUTERS
+
