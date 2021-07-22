@@ -1,4 +1,4 @@
-import requests, os, json
+import requests, json
 from requests.api import request
 from requests.exceptions import HTTPError
 from datetime import datetime
